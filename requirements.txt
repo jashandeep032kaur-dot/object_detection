@@ -1,0 +1,6 @@
+ultralytics==8.3.28
+torch
+torchvision
+opencv-python
+numpy
+gradio==4.0.0

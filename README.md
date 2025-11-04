@@ -1,3 +1,7 @@
+
+This repository implements a state-of-the-art Object Detection pipeline built on top of Hugging Face Transformers and the MMU (Multi-Modal Understanding) framework.
+The project provides an end-to-end solution for detecting and classifying objects in images using modern transformer-based architectures. It’s designed for flexibility, scalability, and easy integration into other machine learning workflows.
+
 ---
 title: Object Detection
 emoji: 👁
@@ -8,10 +12,6 @@ sdk_version: 5.49.1
 app_file: app.py
 pinned: false
 ---
-
-This repository implements a state-of-the-art Object Detection pipeline built on top of Hugging Face Transformers and the MMU (Multi-Modal Understanding) framework.
-The project provides an end-to-end solution for detecting and classifying objects in images using modern transformer-based architectures. It’s designed for flexibility, scalability, and easy integration into other machine learning workflows.
-
 🚀 Features
 
 ✅ Pretrained object detection models from Hugging Face Hub (e.g., DETR, DINO, OWLv2, or custom MMU models).
